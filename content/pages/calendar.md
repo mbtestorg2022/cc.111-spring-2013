@@ -4,27 +4,225 @@ title: Calendar
 uid: eaf73eb7-7e65-31fa-b700-b2cdba9eba58
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**THE ENLIGHTENMENT**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Machiavelli**{{< /td-colspan >}} |||
-| 1 and 2 | The New Understanding of Human Nature and Politics | &nbsp; |
-| {{< td-colspan 3 >}}**Hobbes**{{< /td-colspan >}} |||
-| 3 | On Man | &nbsp; |
-| 4 | On Commonwealth | &nbsp; |
-| {{< td-colspan 3 >}}**Locke**{{< /td-colspan >}} |||
-| 5 | Contract | Paper 1 due |
-| 6 | Legitimate Government | &nbsp; |
-| 7 | Freedom of Thought | Paper 1 revision due |
-| {{< td-colspan 3 >}}**LIBERTY AND AMERICAN CONSTITUTIONALISM**{{< /td-colspan >}} |||
-| 8 | The American Founding | &nbsp; |
-| 9 | Liberty and Equality in America | &nbsp; |
-| {{< td-colspan 3 >}}**STATESMANSHIP AND THE AMERICAN REGIME**{{< /td-colspan >}} |||
-| 10 | Lincoln: A New Birth of Freedom? | Paper 2 due |
-| {{< td-colspan 3 >}}**A CRITIQUE OF ENLIGHTENMENT**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Rousseau**{{< /td-colspan >}} |||
-| 11 | Human Nature and Inequality | &nbsp; |
-| 12 | The Freedom of the Citizen | &nbsp; |
-| {{< td-colspan 3 >}}**THE CRISIS OF MODERNITY**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Nietzsche**{{< /td-colspan >}} |||
-| 13 | A New Vision | Paper 3 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**THE ENLIGHTENMENT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Machiavelli**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 and 2
+{{< tdclose >}}
+{{< tdopen >}}
+The New Understanding of Human Nature and Politics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Hobbes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+On Man
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+On Commonwealth
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Locke**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Contract
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Legitimate Government
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Freedom of Thought
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 revision due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**LIBERTY AND AMERICAN CONSTITUTIONALISM**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The American Founding
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Liberty and Equality in America
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**STATESMANSHIP AND THE AMERICAN REGIME**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lincoln: A New Birth of Freedom?
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**A CRITIQUE OF ENLIGHTENMENT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Rousseau**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Human Nature and Inequality
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The Freedom of the Citizen
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**THE CRISIS OF MODERNITY**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Nietzsche**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+A New Vision
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

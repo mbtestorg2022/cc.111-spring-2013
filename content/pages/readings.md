@@ -16,27 +16,439 @@ uid: 1b55e915-205e-72ff-cdf1-f6ada0d3da9a
 
 \[Nietzsche\] = Nietzsche, Friedrich. _On the Advantage and Disadvantage of History for Life_. Translated by Peter Preuss. Hackett Publishing Company, 1980. ISBN: 9780915144945. \[Preview with [Google Books](http://books.google.com/books?id=k9wwrAakUmAC&pg=Pafrontcover)\]
 
-| WEEK # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**THE ENLIGHTENMENT**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Machiavelli**{{< /td-colspan >}} |||
-| 1 and 2 | The New Understanding of Human Nature and Politics |  {{< br >}}{{< br >}} \[Machiavelli\] Chapters 1–26. {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#1) section_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Hobbes**{{< /td-colspan >}} |||
-| 3 | On Man |  {{< br >}}{{< br >}} \[Hobbes\] Chapter I: "Of Sense." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter II: "Of Imagination." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter III: "Of the Consequence or Train of Imaginations." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter IV: "Of Speech." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter V: "Of Reason, and Science." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter VI: "Of the Interiour Beginnings of Voluntary Motions, Commonly Called the Passions, and the Speeches by Which They Are Expressed." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter X: "Of Power, Worth, Dignity, Honour, and Worthiness." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter XIII: "Of the Natural Condition of Mankind, As Concerning Their Felicity, and Misery." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter XIV: "Of the First and Second Natural Laws and of Contracts." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter XV: "Of Other Laws of Nature." in Part I: Of Man. {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#3) section_ {{< br >}}{{< br >}}  |
-| 4 | On Commonwealth |  {{< br >}}{{< br >}} \[Hobbes\] Chapter XVI: "Of Persons, Authors, and Things Personated." in Part I: Of Man. {{< br >}}{{< br >}} \[Hobbes\] Chapter XVII: "Of the Causes, Generation, and Definition of a Commonwealth." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XVIII: "Of the Rights of Sovereigns by Institution." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XIX: "Of the Several Kinds of Commonwealth by Institution and of Succession to the Sovereign Power." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XX: "Of Dominion Paternal and Despotical." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XXI: "Of the Liberty of Subjects." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XXVI: "Of Civil Laws." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XXVII: "Of Crimes, Excuses, and Extenuations." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XXVIII: "Of Punishments and Rewards." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XXIX: "Of those Things that Weaken or tend to the Dissolution of a Commonwealth." in Part II: Of Commonwealth. {{< br >}}{{< br >}} \[Hobbes\] Chapter XXX: "Of the Office of the Sovereign Representative." in Part II: Of Commonwealth. {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#4) section_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Locke**{{< /td-colspan >}} |||
-| 5 | Contract |  {{< br >}}{{< br >}} \[Locke\] Chapter I: "7." {{< br >}}{{< br >}} \[Locke\] Chapter II: "Of the State of Nature." {{< br >}}{{< br >}} \[Locke\] Chapter III: "Of the State of War." {{< br >}}{{< br >}} \[Locke\] Chapter IV: "Of Slavery." {{< br >}}{{< br >}} \[Locke\] Chapter V: "Of Property." {{< br >}}{{< br >}} \[Locke\] Chapter VI: "Of Paternal Power." {{< br >}}{{< br >}} \[Locke\] Chapter VII: "Of Political or Civil Society." {{< br >}}{{< br >}} \[Locke\] Chapter VIII: "Of the Beginning of Political Societies." {{< br >}}{{< br >}} \[Locke\] Chapter IX: "Of the Ends of Political Society and Government." {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#5) section_ {{< br >}}{{< br >}}  |
-| 6 | Legitimate Government |  {{< br >}}{{< br >}} \[Locke\] Chapter X: "Of the Forms of a Common-wealth." {{< br >}}{{< br >}} \[Locke\] Chapter XI: "Of the Extent of the Legislative Power." {{< br >}}{{< br >}} \[Locke\] Chapter XII: "Of the Legislative, Executive, and Federative Power of the Common-wealth." {{< br >}}{{< br >}} \[Locke\] Chapter XIII: "Of the Subordination of the Powers of the Common-wealth." {{< br >}}{{< br >}} \[Locke\] Chapter XIV: "Of Prerogative." {{< br >}}{{< br >}} \[Locke\] Chapter XV: "Of Paternal, Political, and Despotical Power. {{< br >}}{{< br >}} \[Locke\] Chapter XVI: "Of Conquest." {{< br >}}{{< br >}} \[Locke\] Chapter XVII: "Of Usurpation." {{< br >}}{{< br >}} \[Locke\] Chapter XVIII: "Of Tyranny." {{< br >}}{{< br >}} \[Locke\] Chapter XIX: "Of the Dissolution of Government." {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#6) section_ {{< br >}}{{< br >}}  |
-| 7 | Freedom of Thought |  {{< br >}}{{< br >}} Locke, John. _A Letter Concerning Toleration_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453846414. \[Preview with [Google Books](http://books.google.com/books?id=V1jg37j7H-AC&pg=PAfrontcover)\] {{< br >}}{{< br >}} [Declaration of Independence](http://www.archives.gov/exhibits/charters/declaration_transcript.html), archives.gov. {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#7) section_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**LIBERTY AND AMERICAN CONSTITUTIONALISM**{{< /td-colspan >}} |||
-| 8 | The American Founding |  {{< br >}}{{< br >}} [The Articles of Confederation](http://www.ourdocuments.gov/doc.php?flash=true&doc=3&page=transcript), ourdocuments.gov. {{< br >}}{{< br >}} [Constitution of the United States](http://www.archives.gov/exhibits/charters/constitution_transcript.html), archives.gov. {{< br >}}{{< br >}} Madison, James. "[The Federalist, No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)](http://www.constitution.org/fed/federa10.htm),"constitution.org. {{< br >}}{{< br >}} ———. "[The Federalist, No. 49: Method of Guarding Against the Encroachments of Any One Department of Government b Appealing to the People Through a Convention](http://www.constitution.org/fed/federa49.htm),"constitution.org. {{< br >}}{{< br >}} ———. "[The Federalist, No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments](http://www.constitution.org/fed/federa51.htm),"constitution.org. {{< br >}}{{< br >}} ———. "[The Federalist, No. 57: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation](http://www.constitution.org/fed/federa57.htm),"constitution.org. {{< br >}}{{< br >}} ———. "[The Federalist, No. 63: The Senate (continued)](http://www.constitution.org/fed/federa63.htm),"constitution.org. {{< br >}}{{< br >}} Hamilton, Alexander. "[The Federalist, No. 69: The Real Character of the Executive](http://www.constitution.org/fed/federa69.htm),"constitution.org. {{< br >}}{{< br >}} ———. "[The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered](http://www.constitution.org/fed/federa84.htm),"constitution.org. {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#8) section_ {{< br >}}{{< br >}}  |
-| 9 | Liberty and Equality in America |  {{< br >}}{{< br >}} \[Tocqueville\] "Author's Introduction." {{< br >}}{{< br >}} \[Tocqueville\] Chapter 7: "On The Omnipotence of the Majority in the United States and its Effects." Vol. One: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 8: "On What Tempers the Tyranny of the Majority in the United States." Vol. One: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 1: "On The Philosophic Method of the Americans." Vol. Two: Part One. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 2: "On the Principal Source of Beliefs Among Democratic Peoples." Vol. Two: Part One. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 3: "Why the Americans Show More Aptitude and Taste for General Ideas Than Their English Fathers." Vol. Two: Part One. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 1: "Why Democratic Peoples Show a More Ardent and More Lasting Love for Equality Than for Freedom." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 2: "On Individualism in Democratic Countries." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 3: "How Individualism Is Greater at the End of a Democratic Revolution Than in Any Other Period." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 4: "How the Americans Combat Individualism with Free Institutions." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 5: "On the Use That the Americans Make of Association in Civil Life." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 6: "On the Relation Between Associations and Newspapers." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 7: "Relations Between Civil Associations and Political Associations." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 8: "How the Americans Combat Individualism by the Doctrine of Self-Interest Well Understood." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 9: "How the Americans Apply the Doctrine of Self-Interest Well Understood in the Matter of Religion." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 10: "On the Taste for Material Well-Being in America." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 11: "On the Particular Effects That the Love of Material Enjoyments Produces in Democratic Centuries." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 12: "Why Certain Americans Display Such an Exalted Spiritualism." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 13: "Why the Americans Show Themselves So Restive in the Midst of Their Well-Being." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 14: "How the Taste for Material Enjoyments among Americans Is United with Love of Freedom and with Care for Public Affairs." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 15: "How Religious Beliefs at Times Turns the Souls of the Americans toward Immaterial Enjoyments." Vol. Two: Part Two. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 6: "What Kind of Despotism Democratic Nations Have to Fear." Vol. Two: Part Four. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 7: "Continuation of the Preceding Chapters." Vol. Two: Part Four. {{< br >}}{{< br >}} \[Tocqueville\] Chapter 8: "General View of the Subject." Vol. Two: Part Four. {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#9) section_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**STATESMANSHIP AND THE AMERICAN REGIME**{{< /td-colspan >}} |||
-| 10 | Lincoln: A New Birth of Freedom? |  {{< br >}}{{< br >}} [The Lincoln / Douglas Debates of 1858](http://lincoln.lib.niu.edu/lincolndouglas), lincoln.lib.niu.ebu. {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#10) section_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**A CRITIQUE OF ENLIGHTENMENT**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Rousseau**{{< /td-colspan >}} |||
-| 11 | Human Nature and Inequality |  {{< br >}}{{< br >}} \[Rousseau\] "Discourse on the Origin and Foundations of Inequality (Second Discourse), First and Second Parts." {{< br >}}{{< br >}} \[Rousseau\] "Rousseau's Notes: Footnote (i)." {{< br >}}{{< br >}} \[Rousseau\] "Rousseau's Notes: Footnote (l)." {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#11) section_ {{< br >}}{{< br >}}  |
-| 12 | The Freedom of the Citizen |  {{< br >}}{{< br >}} Rousseau, Jean-Jacques. "Book III." In _The Social Contract_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207. {{< br >}}{{< br >}} ———. "Book IV." In _The Social Contract_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207. {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#12) section_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**THE CRISIS OF MODERNITY**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Nietzsche**{{< /td-colspan >}} |||
-| 13 | A New Vision |  {{< br >}}{{< br >}} \[Nietzsche\] {{< br >}}{{< br >}} _See the [Study Questions]({{< baseurl >}}/pages/study-questions#13) section_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**THE ENLIGHTENMENT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Machiavelli**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1 and 2
+{{< tdclose >}}
+{{< tdopen >}}
+The New Understanding of Human Nature and Politics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Machiavelli\] Chapters 1–26.
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#1) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Hobbes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+On Man
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Hobbes\] Chapter I: "Of Sense." in Part I: Of Man.
+
+\[Hobbes\] Chapter II: "Of Imagination." in Part I: Of Man.
+
+\[Hobbes\] Chapter III: "Of the Consequence or Train of Imaginations." in Part I: Of Man.
+
+\[Hobbes\] Chapter IV: "Of Speech." in Part I: Of Man.
+
+\[Hobbes\] Chapter V: "Of Reason, and Science." in Part I: Of Man.
+
+\[Hobbes\] Chapter VI: "Of the Interiour Beginnings of Voluntary Motions, Commonly Called the Passions, and the Speeches by Which They Are Expressed." in Part I: Of Man.
+
+\[Hobbes\] Chapter X: "Of Power, Worth, Dignity, Honour, and Worthiness." in Part I: Of Man.
+
+\[Hobbes\] Chapter XIII: "Of the Natural Condition of Mankind, As Concerning Their Felicity, and Misery." in Part I: Of Man.
+
+\[Hobbes\] Chapter XIV: "Of the First and Second Natural Laws and of Contracts." in Part I: Of Man.
+
+\[Hobbes\] Chapter XV: "Of Other Laws of Nature." in Part I: Of Man.
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#3) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+On Commonwealth
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Hobbes\] Chapter XVI: "Of Persons, Authors, and Things Personated." in Part I: Of Man.
+
+\[Hobbes\] Chapter XVII: "Of the Causes, Generation, and Definition of a Commonwealth." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XVIII: "Of the Rights of Sovereigns by Institution." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XIX: "Of the Several Kinds of Commonwealth by Institution and of Succession to the Sovereign Power." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XX: "Of Dominion Paternal and Despotical." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XXI: "Of the Liberty of Subjects." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XXVI: "Of Civil Laws." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XXVII: "Of Crimes, Excuses, and Extenuations." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XXVIII: "Of Punishments and Rewards." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XXIX: "Of those Things that Weaken or tend to the Dissolution of a Commonwealth." in Part II: Of Commonwealth.
+
+\[Hobbes\] Chapter XXX: "Of the Office of the Sovereign Representative." in Part II: Of Commonwealth.
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#4) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Locke**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Contract
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Locke\] Chapter I: "7."
+
+\[Locke\] Chapter II: "Of the State of Nature."
+
+\[Locke\] Chapter III: "Of the State of War."
+
+\[Locke\] Chapter IV: "Of Slavery."
+
+\[Locke\] Chapter V: "Of Property."
+
+\[Locke\] Chapter VI: "Of Paternal Power."
+
+\[Locke\] Chapter VII: "Of Political or Civil Society."
+
+\[Locke\] Chapter VIII: "Of the Beginning of Political Societies."
+
+\[Locke\] Chapter IX: "Of the Ends of Political Society and Government."
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#5) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Legitimate Government
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Locke\] Chapter X: "Of the Forms of a Common-wealth."
+
+\[Locke\] Chapter XI: "Of the Extent of the Legislative Power."
+
+\[Locke\] Chapter XII: "Of the Legislative, Executive, and Federative Power of the Common-wealth."
+
+\[Locke\] Chapter XIII: "Of the Subordination of the Powers of the Common-wealth."
+
+\[Locke\] Chapter XIV: "Of Prerogative."
+
+\[Locke\] Chapter XV: "Of Paternal, Political, and Despotical Power.
+
+\[Locke\] Chapter XVI: "Of Conquest."
+
+\[Locke\] Chapter XVII: "Of Usurpation."
+
+\[Locke\] Chapter XVIII: "Of Tyranny."
+
+\[Locke\] Chapter XIX: "Of the Dissolution of Government."
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#6) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Freedom of Thought
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Locke, John. _A Letter Concerning Toleration_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453846414. \[Preview with [Google Books](http://books.google.com/books?id=V1jg37j7H-AC&pg=PAfrontcover)\]
+
+[Declaration of Independence](http://www.archives.gov/exhibits/charters/declaration_transcript.html), archives.gov.
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#7) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**LIBERTY AND AMERICAN CONSTITUTIONALISM**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The American Founding
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[The Articles of Confederation](http://www.ourdocuments.gov/doc.php?flash=true&doc=3&page=transcript), ourdocuments.gov.
+
+[Constitution of the United States](http://www.archives.gov/exhibits/charters/constitution_transcript.html), archives.gov.
+
+Madison, James. "[The Federalist, No. 10: The Utility of the Union as a Safeguard Against Domestic Faction and Insurrection (continued)](http://www.constitution.org/fed/federa10.htm),"constitution.org.
+
+———. "[The Federalist, No. 49: Method of Guarding Against the Encroachments of Any One Department of Government b Appealing to the People Through a Convention](http://www.constitution.org/fed/federa49.htm),"constitution.org.
+
+———. "[The Federalist, No. 51: The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments](http://www.constitution.org/fed/federa51.htm),"constitution.org.
+
+———. "[The Federalist, No. 57: The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation](http://www.constitution.org/fed/federa57.htm),"constitution.org.
+
+———. "[The Federalist, No. 63: The Senate (continued)](http://www.constitution.org/fed/federa63.htm),"constitution.org.
+
+Hamilton, Alexander. "[The Federalist, No. 69: The Real Character of the Executive](http://www.constitution.org/fed/federa69.htm),"constitution.org.
+
+———. "[The Federalist, No. 84: Certain General and Miscellaneous Objections to the Constitution Considered and Answered](http://www.constitution.org/fed/federa84.htm),"constitution.org.
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#8) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Liberty and Equality in America
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Tocqueville\] "Author's Introduction."
+
+\[Tocqueville\] Chapter 7: "On The Omnipotence of the Majority in the United States and its Effects." Vol. One: Part Two.
+
+\[Tocqueville\] Chapter 8: "On What Tempers the Tyranny of the Majority in the United States." Vol. One: Part Two.
+
+\[Tocqueville\] Chapter 1: "On The Philosophic Method of the Americans." Vol. Two: Part One.
+
+\[Tocqueville\] Chapter 2: "On the Principal Source of Beliefs Among Democratic Peoples." Vol. Two: Part One.
+
+\[Tocqueville\] Chapter 3: "Why the Americans Show More Aptitude and Taste for General Ideas Than Their English Fathers." Vol. Two: Part One.
+
+\[Tocqueville\] Chapter 1: "Why Democratic Peoples Show a More Ardent and More Lasting Love for Equality Than for Freedom." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 2: "On Individualism in Democratic Countries." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 3: "How Individualism Is Greater at the End of a Democratic Revolution Than in Any Other Period." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 4: "How the Americans Combat Individualism with Free Institutions." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 5: "On the Use That the Americans Make of Association in Civil Life." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 6: "On the Relation Between Associations and Newspapers." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 7: "Relations Between Civil Associations and Political Associations." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 8: "How the Americans Combat Individualism by the Doctrine of Self-Interest Well Understood." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 9: "How the Americans Apply the Doctrine of Self-Interest Well Understood in the Matter of Religion." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 10: "On the Taste for Material Well-Being in America." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 11: "On the Particular Effects That the Love of Material Enjoyments Produces in Democratic Centuries." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 12: "Why Certain Americans Display Such an Exalted Spiritualism." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 13: "Why the Americans Show Themselves So Restive in the Midst of Their Well-Being." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 14: "How the Taste for Material Enjoyments among Americans Is United with Love of Freedom and with Care for Public Affairs." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 15: "How Religious Beliefs at Times Turns the Souls of the Americans toward Immaterial Enjoyments." Vol. Two: Part Two.
+
+\[Tocqueville\] Chapter 6: "What Kind of Despotism Democratic Nations Have to Fear." Vol. Two: Part Four.
+
+\[Tocqueville\] Chapter 7: "Continuation of the Preceding Chapters." Vol. Two: Part Four.
+
+\[Tocqueville\] Chapter 8: "General View of the Subject." Vol. Two: Part Four.
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#9) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**STATESMANSHIP AND THE AMERICAN REGIME**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lincoln: A New Birth of Freedom?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[The Lincoln / Douglas Debates of 1858](http://lincoln.lib.niu.edu/lincolndouglas), lincoln.lib.niu.ebu.
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#10) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**A CRITIQUE OF ENLIGHTENMENT**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Rousseau**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Human Nature and Inequality
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Rousseau\] "Discourse on the Origin and Foundations of Inequality (Second Discourse), First and Second Parts."
+
+\[Rousseau\] "Rousseau's Notes: Footnote (i)."
+
+\[Rousseau\] "Rousseau's Notes: Footnote (l)."
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#11) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The Freedom of the Citizen
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rousseau, Jean-Jacques. "Book III." In _The Social Contract_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207.
+
+———. "Book IV." In _The Social Contract_. CreateSpace Independent Publishing Platform, 2013. ISBN: 9781453754207.
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#12) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**THE CRISIS OF MODERNITY**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Nietzsche**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+A New Vision
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Nietzsche\]
+
+_See the [Study Questions]({{< baseurl >}}/pages/study-questions#13) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
